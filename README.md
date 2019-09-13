@@ -6,3 +6,5 @@ Forecasting Spare parts inventory
 Every author can keep their code in their particular directory
 
 Finally we will collect ideas from each other and implement in our final submission
+
+## Other idea is to use branches instead of directories
