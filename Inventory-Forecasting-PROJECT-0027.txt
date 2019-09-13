@@ -1,0 +1,64 @@
+DataMites™ Project Mentoring PR-0027
+
+Data Science PROJECT
+Client: NewX Services
+Category: Forecasting Spare parts inventory
+Project Ref: PM-PR-0027
+
+© Copyright 2019 DataMites™ Solutions Pvt Ltd. All rights reserved. Doc Ref: PM-PR-0027
+This document is proprietary and confidential. No part of this document may be disclosed in any manner to a
+third party without the prior written consent of DataMites™ Solutions Pvt Ltd. Contact license@datamites.com
+
+DataMites™ Project Mentoring PR-0027
+
+Business Case:
+The case business case is on the inventory management. Keeping
+Inventory of spare in various service centre to the market demand is
+always a challenge as most service centres spends significant amount
+in spare parts inventory costs. In spite of this, availability of spare
+parts is been one of the problem areas.
+
+PROJECT GOAL:
+1.
+
+Create Predictive model for inventory forecasting so that
+service centre achieve JIT standards.
+
+© Copyright 2019 DataMites™ Solutions Pvt Ltd. All rights reserved. Doc Ref: PM-PR-0027
+This document is proprietary and confidential. No part of this document may be disclosed in any manner to a
+third party without the prior written consent of DataMites™ Solutions Pvt Ltd. Contact license@datamites.com
+
+DataMites™ Project Mentoring PR-0027
+
+Feature Details:
+RangeIndex: 28484 entries, 0 to 28483
+Data columns (total 7 columns):
+Invoice Date
+
+28482 non-null datetime64[ns]
+
+Job Card Date
+
+28482 non-null datetime64[ns]
+
+Business Partner Name 28482 non-null object
+Vehicle No.
+
+28484 non-null object
+
+Vehicle Model
+Current KM Reading
+INVOICE LINE TEXT
+
+28482 non-null object
+28482 non-null float64
+28449 non-null object
+
+Data :
+Data is attached with the project in excel file format.
+
+© Copyright 2019 DataMites™ Solutions Pvt Ltd. All rights reserved. Doc Ref: PM-PR-0027
+This document is proprietary and confidential. No part of this document may be disclosed in any manner to a
+third party without the prior written consent of DataMites™ Solutions Pvt Ltd. Contact license@datamites.com
+
+
